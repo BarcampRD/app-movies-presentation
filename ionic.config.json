@@ -1,5 +1,7 @@
 {
   "name": "movies-ngxs",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
